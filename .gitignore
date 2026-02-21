@@ -1,0 +1,6 @@
+/.idea/
+/.gradle/
+/build/
+/HELP.md
+/.env
+/dev.env

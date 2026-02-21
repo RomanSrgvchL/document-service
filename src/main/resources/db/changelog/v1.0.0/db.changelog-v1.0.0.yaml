@@ -1,0 +1,7 @@
+databaseChangeLog:
+  - include:
+      file: db/changelog/v1.0.0/2026-02-21--01-create-documents-table.sql
+  - include:
+      file: db/changelog/v1.0.0/2026-02-21--02-create-document-history-table.sql
+  - include:
+      file: db/changelog/v1.0.0/2026-02-21--03-create-registries-table.sql
