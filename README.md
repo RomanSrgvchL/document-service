@@ -10,7 +10,7 @@
 
 ```bash
 git clone https://github.com/RomanSrgvchL/DocumentService.git
-cd WhaleSpaceApi
+cd DocumentService
 ```
 
 ### 2. Настройте переменные окружения
