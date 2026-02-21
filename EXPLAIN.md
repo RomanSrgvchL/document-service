@@ -16,6 +16,6 @@
 
 > Я создал 1 000 000 документов и сравнил скорость поиска по author без индекса | с индексом. Время выполнения запроса уменьшилось в 25 раз, прилагаю скрины с запросом и его планом выполнения.
 
-> Запрос без индекса: ![img1.png](request-plans/without-index.png)
+> Запрос без индекса: ![img1.png](query-plan/without-index.png)
 
-> Запрос с индексом: ![img2.png](request-plans/with-index.png)
+> Запрос с индексом: ![img2.png](query-plan/with-index.png)
