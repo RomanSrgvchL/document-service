@@ -9,8 +9,8 @@
 ### 1. Клонируйте данный репозиторий и перейдите в каталог проекта
 
 ```bash
-git clone https://github.com/RomanSrgvchL/DocumentService.git
-cd DocumentService
+git clone https://github.com/RomanSrgvchL/document-service.git
+cd document-service
 ```
 
 ### 2. Настройте переменные окружения
